@@ -5,4 +5,6 @@ category: String;
 deliveryEstimate: String;
 rating: number;
 imagePath: String;
+about: String;
+hours: String;
 }
